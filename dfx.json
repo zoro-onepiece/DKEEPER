@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "dnoter_backend": {
+      "main": "src/dnoter_backend/main.mo",
+      "type": "motoko"
+    },
+    "dnoter_frontend": {
+      "dependencies": [
+        "dnoter_backend"
+      ],
+      "source": [
+        "src/dnoter_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "dnoter_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
