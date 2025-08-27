@@ -1,3 +1,6 @@
+# `Notes by Author of Repo`
+I have named my app noter so don't get confused.You can name your app whatever you want .I kept the name of repo DKEEPER ,so that ,if any one is struggling with the project they can find it easily.I also changed the styling of my app!
+
 # `dnoter`
 
 Welcome to your new `dnoter` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
