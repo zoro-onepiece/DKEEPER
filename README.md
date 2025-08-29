@@ -1,5 +1,5 @@
 # `Notes by Author of Repo`
-I have named my app 'Noter' so don't get confused.You will also find 'dnoter' name somewhere in this project which is jsut indication of 'decentralized Noter App' .You can name your app whatever you want .I kept the name of repo 'DKEEPER' ,so that ,if any one is struggling with the project they can find it easily.I also changed the styling of my app!
+I have named my app 'Noter' so don't get confused.You will also find 'dnoter' name somewhere in this project which is just indication of 'decentralized Noter App' .You can name your dapp whatever you want .I kept the name of repo 'DKEEPER' ,so that ,if any one is struggling with the project they can find it easily.I also changed the styling of my app!
 
 # `dnoter`
 
